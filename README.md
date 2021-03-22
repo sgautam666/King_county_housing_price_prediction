@@ -1,4 +1,4 @@
-![lens](./images/downtown_Seattle.jpg)
+![city](./images/downtown_Seattle.JPG)
 
 # King County Housing Price Prediction 
 
